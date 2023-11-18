@@ -1,11 +1,11 @@
 
 
 
-- 👋 Hi, I’m @MahakalParinda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Ujjwal_Bowal
+- 👀 I’m interested in Programing Now.
+- 🌱 I’m currently learning C language.
+- 💞️ I’m looking to collaborate on I Nurture in india.
+- 📫 How to reach call me 6398964370.
 
 <!---
 MahakalParinda/MahakalParinda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
